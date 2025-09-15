@@ -73,7 +73,8 @@
 			"images": [],
 			"dependencies": [
 				"ModSettings",
-				"ModData"
+				"ModData",
+				"ComplexLogger"
 			],
 			"status": {
 				"working": true,
@@ -115,7 +116,8 @@
 			"dependencies": [
 				"ModSettings",
 				"ModData",
-				"ExpandedAiFramework"
+				"ExpandedAiFramework",
+				"ComplexLogger"
 			],
 			"status": {
 				"working": true,
@@ -157,7 +159,8 @@
 			"dependencies": [
 				"ModSettings",
 				"ModData",
-				"ExpandedAiFramework"
+				"ExpandedAiFramework",
+				"ComplexLogger"
 			],
 			"status": {
 				"working": true,
@@ -199,7 +202,8 @@
 			"dependencies": [
 				"ModSettings",
 				"ModData",
-				"ExpandedAiFramework"
+				"ExpandedAiFramework",
+				"ComplexLogger"
 			],
 			"status": {
 				"working": true,
@@ -241,7 +245,8 @@
 			"dependencies": [
 				"ModSettings",
 				"ModData",
-				"ExpandedAiFramework"
+				"ExpandedAiFramework",
+				"ComplexLogger"
 			],
 			"status": {
 				"working": true,
