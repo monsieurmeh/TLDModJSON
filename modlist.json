@@ -48,8 +48,217 @@
 					"https://github.com/monsieurmeh/FeatSettings/releases/download/1.1.3/FeatSettings.dll"
 				]
 			},
-			"aliases": [],
-			"replaces": []
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.11.0",
+			"name": "ExpandedAiFramework",
+			"displayName": "Expanded Ai Framework",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2025-09-14",
+			"updated": "2025-09-14",
+			"downloadURL": "https://github.com/monsieurmeh/ExpandedAiFramework/releases/download/Beta/ExpandedAiFramework.dll",
+			"modURL": "https://github.com/monsieurmeh/ExpandedAiFramework",
+			"description": "Provides framework needed for new spawn mechanics and AI behaviors.",
+			"tags": "AI,Framework,ExpandedAiFramework,EAF",
+			"categories": [
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "BACK UP YOUR SAVES!",
+				"issues": "BETA. Unstable. It crashes. No corruption noted."
+			},
+			"testedon": {
+				"tldversion": "2.42",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.11.0",
+			"name": "ExpandedAiFramework.WanderingWolfMod",
+			"displayName": "Wandering Wolf",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2025-09-14",
+			"updated": "2025-09-14",
+			"downloadURL": "https://github.com/monsieurmeh/ExpandedAiFramework/releases/download/Beta/ExpandedAiFramework.WanderingWolfMod.dll",
+			"modURL": "https://github.com/monsieurmeh/ExpandedAiFramework",
+			"description": "Creates a new wolf spawn type that wanders around the map instead of staying in a small area.",
+			"tags": "AI,Framework,ExpandedAiFramework,EAF,Wolf,WanderingWolf",
+			"categories": [
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModData",
+				"ExpandedAiFramework"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "",
+				"mlversion": ""
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.11.0",
+			"name": "ExpandedAiFramework.AmbushWolfMod",
+			"displayName": "Ambush Wolf",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2025-09-14",
+			"updated": "2025-09-14",
+			"downloadURL": "https://github.com/monsieurmeh/ExpandedAiFramework/releases/download/Beta/ExpandedAiFramework.AmbushWolfMod.dll",
+			"modURL": "https://github.com/monsieurmeh/ExpandedAiFramework",
+			"description": "Creates a new wolf spawn type that hides around the map, waiting for you to walk by...",
+			"tags": "AI,Framework,ExpandedAiFramework,EAF,Wolf,AmbushWolf",
+			"categories": [
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModData",
+				"ExpandedAiFramework"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "",
+				"mlversion": ""
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.11.0",
+			"name": "ExpandedAiFramework.TrackingWolfMod",
+			"displayName": "Tracking Wolf",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2025-09-14",
+			"updated": "2025-09-14",
+			"downloadURL": "https://github.com/monsieurmeh/ExpandedAiFramework/releases/download/Beta/ExpandedAiFramework.TrackingWolfMod.dll",
+			"modURL": "https://github.com/monsieurmeh/ExpandedAiFramework",
+			"description": "Creates a new wolf spawn type that tracks you across the map, no matter your scent level. Watch your back!",
+			"tags": "AI,Framework,ExpandedAiFramework,EAF,Wolf,TrackingWolf",
+			"categories": [
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModData",
+				"ExpandedAiFramework"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "",
+				"mlversion": ""
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.11.0",
+			"name": "ExpandedAiFramework.CompanionWolfMod",
+			"displayName": "Companion Wolf",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2025-09-14",
+			"updated": "2025-09-14",
+			"downloadURL": "https://github.com/monsieurmeh/ExpandedAiFramework/releases/download/Beta/ExpandedAiFramework.WanderingWolfMod.dll",
+			"modURL": "https://github.com/monsieurmeh/ExpandedAiFramework",
+			"description": "Creates a new wolf spawn type that can be tempted with meat and eventually tamed. This mod is still very early in development, it works well enough to get the pup following you and growing but there are no functional changes beyond burning a hole in your meat stash.",
+			"tags": "AI,Framework,ExpandedAiFramework,EAF,Wolf,CompanionWolf",
+			"categories": [
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModData",
+				"ExpandedAiFramework"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "",
+				"mlversion": ""
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
