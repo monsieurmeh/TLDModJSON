@@ -83,7 +83,7 @@
 				"issues": "BETA. Unstable. It crashes. No corruption noted."
 			},
 			"testedon": {
-				"tldversion": "2.42",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -125,8 +125,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "",
-				"mlversion": ""
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -167,8 +167,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "",
-				"mlversion": ""
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -209,8 +209,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "",
-				"mlversion": ""
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -251,8 +251,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "",
-				"mlversion": ""
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
