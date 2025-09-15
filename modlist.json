@@ -231,7 +231,7 @@
 			"previousAuthors": "",
 			"released": "2025-09-14",
 			"updated": "2025-09-14",
-			"downloadURL": "https://github.com/monsieurmeh/ExpandedAiFramework/releases/download/Beta/ExpandedAiFramework.WanderingWolfMod.dll",
+			"downloadURL": "https://github.com/monsieurmeh/ExpandedAiFramework/releases/download/Beta/ExpandedAiFramework.CompanionWolfMod.dll",
 			"modURL": "https://github.com/monsieurmeh/ExpandedAiFramework",
 			"description": "Creates a new wolf spawn type that can be tempted with meat and eventually tamed. This mod is still very early in development, it works well enough to get the pup following you and growing but there are no functional changes beyond burning a hole in your meat stash.",
 			"tags": "AI,Framework,ExpandedAiFramework,EAF,Wolf,CompanionWolf",
