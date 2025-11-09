@@ -27,7 +27,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+				"https://ibb.co/j9T1VgGJ"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
