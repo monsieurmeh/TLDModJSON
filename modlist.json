@@ -6,13 +6,13 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.2.1",
+			"version": "1.3.0",
 			"name": "FeatSettings",
 			"displayName": "Feat Settings",
 			"author": "MonsieurMeh",
 			"previousAuthors": "",
 			"released": "2025-10-08",
-			"updated": "2025-11-21",
+			"updated": "2025-12-2",
 			"downloadURL": "https://github.com/monsieurmeh/FeatSettings/releases/latest/download/FeatSettings.dll",
 			"modURL": "https://github.com/monsieurmeh/FeatSettings",
 			"description": "Exposes effect and unlock settings for feats. Allows unlocking of legacy feat, \"Big Cat Killer\". Eliminates startup noises for feats unlocked \"the wrong way\" via bugs or console command use. Allows customizable number of feats at any difficulty level.",
@@ -47,7 +47,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/monsieurmeh/FeatSettings/releases/download/1.1.3/FeatSettings.dll"
+					"https://github.com/monsieurmeh/FeatSettings/releases/latest/download/FeatSettings.dll"
 				]
 			},
 			"aliases": []
