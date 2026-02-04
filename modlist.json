@@ -261,6 +261,45 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "MehToolBox",
+			"displayName": "Meh Tool Box",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2026-2-4",
+			"updated": "2026-2-4",
+			"downloadURL": "https://github.com/monsieurmeh/MehToolBox/releases/latest/download/MehToolBox.dll",
+			"modURL": "https://github.com/monsieurmeh/MehToolBox",
+			"description": "A toolbox for modders to use in their mods.",
+			"tags": "Misc",
+			"categories": [
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
