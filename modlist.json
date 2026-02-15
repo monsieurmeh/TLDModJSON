@@ -6,6 +6,50 @@
 	"mods": [
 		{
 			"type": "mod",
+			"version": "1.0.0",
+			"name": "Trespasser",
+			"displayName": "Trespasser",
+			"author": "MonsieurMeh, Flower Field, Atmudia",
+			"previousAuthors": "",
+			"released": "2026-2-14",
+			"updated": "2026-2-14",
+			"downloadURL": "https://github.com/monsieurmeh/Trespasser/releases/latest/download/Trespasser.dll",
+			"modURL": "https://github.com/monsieurmeh/FeatSettings",
+			"description": "Adds a new distinct difficulty mode between Stalker and Interloper. Start with 3 matches and a chance to find interloper-banned items around the world.",
+			"tags": "Gameplay, Difficulty, Trespasser, Gamemode",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/monsieurmeh/TrespasserMod/main/Assets/trespasser_bw_icon.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2-ci.2388"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/monsieurmeh/Trespasser/releases/latest/download/Trespasser.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
 			"version": "1.4.1",
 			"name": "FeatSettings",
 			"displayName": "Feat Settings",
