@@ -7,6 +7,49 @@
 		{
 			"type": "mod",
 			"version": "1.0.0",
+			"name": "NonLethalFlares",
+			"displayName": "Non-Lethal Flares",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2026-3-13",
+			"updated": "2026-3-13",
+			"downloadURL": "https://github.com/monsieurmeh/NonLethalFlares/releases/latest/download/NonLethalFlares.dll",
+			"modURL": "https://github.com/monsieurmeh/NonLethalFlares",
+			"description": "Disables flaregun damage and bleeding. Option to enable or disable flare gun rounds sticking to bear.",
+			"tags": "Gameplay",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/monsieurmeh/NonLethalFlares/releases/latest/download/NonLethalFlares.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
 			"name": "Trespasser",
 			"displayName": "Trespasser",
 			"author": "MonsieurMeh, Flower Field, Atmudia",
@@ -38,7 +81,7 @@
 			},
 			"testedon": {
 				"tldversion": "2.51",
-				"mlversion": "0.7.2-ci.2388"
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -86,7 +129,7 @@
 			},
 			"testedon": {
 				"tldversion": "2.51",
-				"mlversion": "0.7.2-ci.2388"
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -130,7 +173,7 @@
 			},
 			"testedon": {
 				"tldversion": "2.51",
-				"mlversion": "0.7.2-ci.2388"
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -172,7 +215,7 @@
 			},
 			"testedon": {
 				"tldversion": "2.51",
-				"mlversion": "0.7.2-ci.2388"
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -214,7 +257,7 @@
 			},
 			"testedon": {
 				"tldversion": "2.51",
-				"mlversion": "0.7.2-ci.2388"
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -256,7 +299,7 @@
 			},
 			"testedon": {
 				"tldversion": "2.51",
-				"mlversion": "0.7.2-ci.2388"
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -298,7 +341,7 @@
 			},
 			"testedon": {
 				"tldversion": "2.51",
-				"mlversion": "0.7.2-ci.2388"
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -337,7 +380,7 @@
 			},
 			"testedon": {
 				"tldversion": "2.51",
-				"mlversion": "0.7.2-ci.2388"
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
