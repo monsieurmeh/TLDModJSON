@@ -6,7 +6,7 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "NonLethalFlares",
 			"displayName": "Nonlethal Flares",
 			"author": "MonsieurMeh",
@@ -24,6 +24,7 @@
 				"vanilla"
 			],
 			"images": [
+				"https://raw.githubusercontent.com/monsieurmeh/TLDModJSON/main/unamused.PNG"
 			],
 			"dependencies": [
 				"ModSettings"
