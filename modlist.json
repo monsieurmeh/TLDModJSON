@@ -6,6 +6,90 @@
 	"mods": [
 		{
 			"type": "mod",
+			"version": "1.0.0",
+			"name": "NotTheWolves",
+			"displayName": "Not The Wolves!",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2026-3-22",
+			"updated": "2026-3-22",
+			"downloadURL": "https://github.com/monsieurmeh/NotTheWolves/releases/latest/download/NotTheWolves.dll",
+			"modURL": "https://github.com/monsieurmeh/NotTheWolves",
+			"description": "Makes wolves invulnerable and prevents wolf carcasses from spawning ingame.",
+			"tags": "Gameplay",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+			],
+			"dependencies": [
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/monsieurmeh/NotTheWolves/releases/latest/download/NotTheWolves.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "OldSchoolHarvesting",
+			"displayName": "Old School Harvesting",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2026-3-22",
+			"updated": "2026-3-22",
+			"downloadURL": "https://github.com/monsieurmeh/OldSchoolHarvesting/releases/latest/download/OldSchoolHarvesting.dll",
+			"modURL": "https://github.com/monsieurmeh/OldSchoolHarvesting",
+			"description": "Mutes the sound, removes the animation and dims the lights during carcass harvesting with a progress bar, in honor of the old days.",
+			"tags": "Gameplay",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+			],
+			"dependencies": [
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/monsieurmeh/OldSchoolHarvesting/releases/latest/download/OldSchoolHarvesting.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
 			"version": "1.0.1",
 			"name": "NonLethalFlares",
 			"displayName": "Nonlethal Flares",
