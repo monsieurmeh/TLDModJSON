@@ -26,6 +26,12 @@
 			"images": [
 			],
 			"dependencies": [
+				"ModSettings",
+				"ModData",
+				"ModComponent",
+				"AudioManager",
+				"AudioCore",
+				"MehToolBox"
 			],
 			"status": {
 				"working": true,
