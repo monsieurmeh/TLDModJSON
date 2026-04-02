@@ -6,6 +6,45 @@
 	"mods": [
 		{
 			"type": "mod",
+			"version": "0.6.7",
+			"name": "Shotgun",
+			"displayName": "Shotgun",
+			"author": "Team Shotgun",
+			"previousAuthors": "",
+			"released": "2026-4-1",
+			"updated": "2026-4-1",
+			"downloadURL": "https://github.com/monsieurmeh/MehToolBox/releases/download/shotgun/Shotgun.dll",
+			"modURL": "https://github.com/monsieurmeh/MehToolBox/releases/tag/shotgun",
+			"description": "Heard y'all wanted a shotgun...",
+			"tags": "Gameplay",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+			],
+			"dependencies": [
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.52",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},{
+			"type": "mod",
 			"version": "1.0.0",
 			"name": "NotTheWolves",
 			"displayName": "Not The Wolves!",
@@ -436,13 +475,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.1",
 			"name": "MehToolBox",
 			"displayName": "Meh Tool Box",
 			"author": "MonsieurMeh",
 			"previousAuthors": "",
-			"released": "2026-2-4",
-			"updated": "2026-2-4",
+			"released": "2026-4-1",
+			"updated": "2026-4-1",
 			"downloadURL": "https://github.com/monsieurmeh/MehToolBox/releases/latest/download/MehToolBox.dll",
 			"modURL": "https://github.com/monsieurmeh/MehToolBox",
 			"description": "A toolbox for modders to use in their mods.",
@@ -464,7 +503,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.52",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
