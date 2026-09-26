@@ -272,13 +272,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.12.4",
+			"version": "0.12.5",
 			"name": "ExpandedAiFramework",
 			"displayName": "Expanded Ai Framework",
 			"author": "MonsieurMeh",
 			"previousAuthors": "",
 			"released": "2025-09-14",
-			"updated": "2026-1-5",
+			"updated": "2026-9-26",
 			"downloadURL": "https://github.com/monsieurmeh/ExpandedAiFramework/releases/latest/download/ExpandedAiFramework.dll",
 			"modURL": "https://github.com/monsieurmeh/ExpandedAiFramework",
 			"description": "Provides framework needed for new spawn mechanics and AI behaviors.",
@@ -303,7 +303,7 @@
 				"issues": "BETA. Unstable. It crashes. No corruption noted."
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
