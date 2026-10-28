@@ -28,7 +28,7 @@
 			"dependencies": [
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
@@ -70,7 +70,7 @@
 			"dependencies": [
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
@@ -114,7 +114,7 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
