@@ -472,6 +472,53 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.13.5",
+			"name": "DoubleBarrel",
+			"displayName": "Double Barrel Shotgun",
+			"author": "Team Shotgun",
+			"previousAuthors": "",
+			"released": "2026-10-28",
+			"updated": "2026-10-28",
+			"downloadURL": "https://github.com/monsieurmeh/Shotgun/releases/latest/download/DoubleBarrel.dll",
+			"modURL": "https://github.com/monsieurmeh/Shotgun/",
+			"description": "Heard y'all wanted a shotgun...",
+			"tags": "Gameplay",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModData",
+				"ModComponent",
+				"AudioManager",
+				"AudioCore",
+				"MehToolBox"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.58",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
