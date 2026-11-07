@@ -49,6 +49,178 @@
 		{
 			"type": "mod",
 			"version": "1.0.0",
+			"name": "AurOS",
+			"displayName": "AurOS",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2026-11-6",
+			"updated": "2026-11-6",
+			"downloadURL": "https://github.com/monsieurmeh/AurOS/releases/latest/download/AurOS.dll",
+			"modURL": "https://github.com/monsieurmeh/AurOS",
+			"description": "Makes TLD's computers useful again. Come with nothing installed, look for games and activities to plug in!",
+			"tags": "Gameplay",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/monsieurmeh/TLDModJSON/main/AurOS.PNG"
+			],
+			"dependencies": [
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.60",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/monsieurmeh/AurOS/releases/latest/download/AurOS.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "TheLongDoom",
+			"displayName": "The Long Doom",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2026-11-6",
+			"updated": "2026-11-6",
+			"downloadURL": "https://github.com/monsieurmeh/TheLongDoom/releases/latest/download/TheLongDoom.dll",
+			"modURL": "https://github.com/monsieurmeh/TheLongDoom",
+			"description": "Yes, Doom CAN run in The Long Dark.",
+			"tags": "Gameplay",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/monsieurmeh/TLDModJSON/main/TheLongDoom.PNG"
+			],
+			"dependencies": [
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.60",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/monsieurmeh/TheLongDoom/releases/latest/download/TheLongDoom.dll"
+				]
+			},
+			"aliases": []
+		},
+				{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "TheLongSnake",
+			"displayName": "The Long Snake",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2026-11-6",
+			"updated": "2026-11-6",
+			"downloadURL": "https://github.com/monsieurmeh/TheLongSnake/releases/latest/download/TheLongSnake.dll",
+			"modURL": "https://github.com/monsieurmeh/TheLongSnake",
+			"description": "A classic. Play it with AurOS!",
+			"tags": "Gameplay",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/monsieurmeh/TLDModJSON/main/TheLongSnake.PNG"
+			],
+			"dependencies": [
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.60",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/monsieurmeh/TheLongSnake/releases/latest/download/TheLongSnake.dll"
+				]
+			},
+			"aliases": []
+		},
+				{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "NumbersGoUp",
+			"displayName": "Numbers Go Up",
+			"author": "MonsieurMeh",
+			"previousAuthors": "",
+			"released": "2026-11-6",
+			"updated": "2026-11-6",
+			"downloadURL": "https://github.com/monsieurmeh/NumbersGoUp/releases/latest/download/NumbersGoUp.dll",
+			"modURL": "https://github.com/monsieurmeh/NumbersGoUp",
+			"description": "A favorite. Play it with AurOS!",
+			"tags": "Gameplay",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/monsieurmeh/TLDModJSON/main/NumbersGoUp.PNG"
+			],
+			"dependencies": [
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.60",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/monsieurmeh/NumbersGoUp/releases/latest/download/NumbersGoUp.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
 			"name": "OldSchoolHarvesting",
 			"displayName": "Old School Harvesting",
 			"author": "MonsieurMeh",
