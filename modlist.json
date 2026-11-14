@@ -6,6 +6,95 @@
 	"mods": [
 		{
 			"type": "mod",
+			"version": "1.6.5",
+			"name": "ModData",
+			"displayName": "Mod Data",
+			"author": "MonsieurMeh",
+			"previousAuthors": "<a href='https://github.com/dommrogers' target='_blank'>STBlade</a>",
+			"released": "2023-03-16",
+			"updated": "2026-01-13",
+			"downloadURL": "https://github.com/MonsieurMeh/ModData/releases/latest/download/ModData.dll",
+			"modURL": "https://github.com/MonsieurMeh/ModData",
+			"description": "A utility mod for TLD that lets other mods save data independently of the save file.",
+			"tags": "",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+			"https://github.com/dommrogers/mod_list/blob/master/moddata.png?raw=true"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.60",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "7.1.0",
+			"name": "ModComponent",
+			"displayName": "",
+			"author": "MonsieurMeh",
+			"previousAuthors": "<a href='https://github.com/dommrogers' target='_blank'>STBlade</a>, <a href='https://github.com/ds5678' target='_blank'>ds5678</a>, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2026-11-13",
+			"downloadURL": "https://github.com/MonsieurMeh/ModComponent/releases/latest/download/ModComponent.dll",
+			"modURL": "https://github.com/MonsieurMeh/ModComponent",
+			"description": "Now includes GearSpawner, CraftingRevisions, LocalizationUtilities.\n\nUtility Mod; lets you load external item packs.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+			"https://github.com/dommrogers/mod_list/blob/master/modcomponent.png?raw=true"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.60",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"AssetLoader",
+				"ModComponentMapper",
+				"ModComponentAPI"
+			],
+			"replaces": [
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			]
+		},
+		{
+			"type": "mod",
 			"version": "1.0.0",
 			"name": "NotTheWolves",
 			"displayName": "Not The Wolves!",
@@ -91,13 +180,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "TheLongDoom",
 			"displayName": "The Long Doom",
 			"author": "MonsieurMeh",
 			"previousAuthors": "",
 			"released": "2026-11-6",
-			"updated": "2026-11-6",
+			"updated": "2026-11-13",
 			"downloadURL": "https://github.com/monsieurmeh/TheLongDoom/releases/latest/download/TheLongDoom.dll",
 			"modURL": "https://github.com/monsieurmeh/TheLongDoom",
 			"description": "Yes, Doom CAN run in The Long Dark.",
@@ -306,13 +395,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.20",
 			"name": "Trespasser",
 			"displayName": "Trespasser",
 			"author": "MonsieurMeh, Flower Field, Atmudia",
 			"previousAuthors": "",
 			"released": "2026-2-14",
-			"updated": "2026-2-14",
+			"updated": "2026-11-13",
 			"downloadURL": "https://github.com/monsieurmeh/TrespasserMod/releases/latest/download/Trespasser.dll",
 			"modURL": "https://github.com/monsieurmeh/TrespasserMod",
 			"description": "Adds a new distinct difficulty mode between Stalker and Interloper. Start with 3 matches and a chance to find interloper-banned items around the world.",
@@ -337,7 +426,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -350,16 +439,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.1",
+			"version": "1.6.5",
 			"name": "FeatSettings",
 			"displayName": "Feat Settings",
 			"author": "MonsieurMeh",
 			"previousAuthors": "",
 			"released": "2025-10-08",
-			"updated": "2026-1-5",
+			"updated": "2026-11-13",
 			"downloadURL": "https://github.com/monsieurmeh/FeatSettings/releases/latest/download/FeatSettings.dll",
 			"modURL": "https://github.com/monsieurmeh/FeatSettings",
-			"description": "Exposes effect and unlock settings for feats. Allows unlocking of legacy feat, \"Big Cat Killer\". Eliminates startup noises for feats unlocked \"the wrong way\" via bugs or console command use. Allows customizable number of feats at any difficulty level.",
+			"description": "Allows creation of custom feats. Exposes effect and unlock settings for feats. Allows unlocking of legacy feat, \"Big Cat Killer\". Eliminates startup noises for feats unlocked \"the wrong way\" via bugs or console command use. Allows customizable number of feats at any difficulty level.",
 			"tags": "Feats,Feat,Settings,Cheat,Cheats",
 			"categories": [
 				"Quality of Life",
@@ -385,7 +474,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
